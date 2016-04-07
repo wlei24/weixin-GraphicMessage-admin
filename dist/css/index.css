@@ -19,7 +19,7 @@ body{overflow-x: hidden;min-width:1366px;font-size: 14px;}
 .appmsgItemLists .appmsg-bucket{width:100%;position: absolute;bottom: 0;background: rgba(0,0,0,0.4);height: 40px;left: 0;font-size: 1.2em;line-height: 40px;}
 .appmsgItemLists .position-relative{position:relative;}
 .appmsgItemLists .appmsg-title{word-break:break-all;word-wrap:break-word;padding-right: 2em;}
-.appmsgEditorLists{padding: 1.8em 2em;line-height:2.2em;}
+.appmsgEditorLists{padding: 1.3em 2em;line-height:2.2em;}
 .appmsgEditorLists span,input,textarea{display: block;outline: none;}
 .appmsgEditorLists input:focus,textarea:focus{border:2px solid #B0E2FF;}
 .appmsgEditorLists input,textarea{width:75%;margin: 0.8em 0 0 0;padding: 0 0.6em;border: 1px solid #e3e3e3;}
